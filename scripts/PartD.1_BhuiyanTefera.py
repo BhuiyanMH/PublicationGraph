@@ -8,47 +8,75 @@ def connect():
     graph = Graph("bolt://localhost:7687", auth=(USER_NAME, USER_PASSWORD))
     return graph
 
-query = """
-//Total article per journal/conference
-MATCH (n) <-[:PUBLISHED_IN]-(article:Article)
-WITH n, count(article) AS TotalArticle
+def define_community():
+    print("=> Defining Community")
+    query = """
+    MATCH (aik:Keyword)
+    WHERE  NOT aik.title IN ['data management', 'indexing', 'data modeling', 'big data', 'data processing', 'data storage', 'data querying']
+    MERGE (aiCom: AICommunity)
+    MERGE (aiCom)-[:DEFINED_BY]->(aik)
+    WITH aik
+    MATCH (dbk:Keyword)
+    WHERE  dbk.title IN ['data management', 'indexing', 'data modeling', 'big data', 'data processing', 'data storage', 'data querying']
+    MERGE (dbcom: DBCommunity)
+    MERGE (dbcom)-[:DEFINED_BY]->(dbk)
+    """
+    return connect().run(query).data()
 
-MATCH (n)<-[:PUBLISHED_IN]-(article)-[:HAS_KEYWORD]->(keyword:Keyword)
-WHERE keyword.title IN ['data management', 'indexing', 'data modeling', 'big data', 'data processing', 'data storage', 'data querying']
-WITH  n, TotalArticle, count(DISTINCT article) as DBArticle
-WHERE toFloat(DBArticle)/toFloat(TotalArticle) >= 0.9
-WITH  n AS DBConfJour
+def find_db_community_conference_journal():
+    print("=> Defining DB Community Conference Journal")
+    query = """
+    MATCH (n) <-[:PUBLISHED_IN]-(article:Article)
+    WITH n, count(article) AS TotalArticle
+    MATCH (n)<-[:PUBLISHED_IN]-(article)-[:HAS_KEYWORD]->(keyword:Keyword)
+    WHERE keyword.title IN ['data management', 'indexing', 'data modeling', 'big data', 'data processing', 'data storage', 'data querying']
+    WITH  n, TotalArticle, count(DISTINCT article) as DBArticle
+    WHERE toFloat(DBArticle)/toFloat(TotalArticle) >= 0.9
+    WITH  n AS DBConfJour
+    MERGE (dbc:DBCommunity)
+    MERGE (DBConfJour)-[:RELATED_TO]->(dbc)
+    WITH DBConfJour
+    MATCH (dbc:DBCommunity)<-[:RELATED_TO]-(DBConfJour) <--(dbArticle:Article)
+    SET dbArticle.community = 'DB Community'
+    """
+    return connect().run(query).data()
 
-//Now, we have all the conference or journals from the DB Community
-//We find all the papers from this DB Community
+def find_top_articles():
+    print("=> Finding Rank of Articles")
+    query = """
+    //Now we have papers of the db community
+    //Next we have to calculate the pagerank of the papers
+    CALL algo.pageRank(
+    'MATCH (dbArticle:Article{community:"DB Community"}) RETURN id(dbArticle) AS id',
+    'MATCH (d1:Article{community:"DB Community"})-[:CITED_BY]->(d2:Article{community:"DB Community"}) RETURN id(d1) as source, id(d2) as target',
+    {graph:'cypher', iterations:20, dampingFactor:0.85, write: true, writeProperty:"pagerank"})
+    YIELD nodes, iterations, loadMillis, computeMillis, writeMillis, dampingFactor, write, writeProperty
+    """
+    return connect().run(query).data()
 
-MATCH (DBConfJour) <--(dbArticle:Article)
-WITH  dbArticle as dbArticle1, dbArticle as dbArticle12
-//Now calculate the citation of papers from the same commuinity
-MATCH (dbArticle1)-[dbCite:CITED_BY]->(dbArticle2)
-WITH dbArticle1 as DBPapers, count(DISTINCT dbArticle2) AS CiteCount
-ORDER BY CiteCount DESC
-WITH  DBPapers, CiteCount
-//Now we have papers of the db comminity according to the citation count from the same community
-//Next we have to calculate the pagerank of the papers
-CALL algo.pageRank.stream(
-'MATCH (DBPapers) RETURN id(DBPapers) AS id', 
-"MATCH (d1:Article)-[:CITED_BY]->(d2:Article) RETURN id(d1) as source, id(d2) as target",  {graph:'cypher', iterations:5, dampingFactor:0.85})
-YIELD nodeId, score
-WITH DISTINCT algo.asNode(nodeId) AS Top100Article, score AS Rank
-ORDER BY Rank DESC
-LIMIT 100
-//WE have top 100 papers now, we just need to find the authors of them
-MATCH (Top100Article)<-[wr:WRITTEN]-(topAuthor:Author)
-WITH topAuthor.name as Gurus, count( DISTINCT Top100Article) as NumPapers
-WHERE NumPapers >= 2
-RETURN Gurus, NumPapers
-ORDER BY NumPapers DESC
-"""
+def find_gurus():
+    print("=> Finding Gurus")
+    query = """
+    MATCH (dbArticle:Article{community:"DB Community"})
+    WITH dbArticle as Top100Article
+    ORDER BY dbArticle.pagerank DESC 
+    LIMIT 100
+    MATCH (Top100Article)<-[:WRITTEN]-(author: Author)
+    WITH author AS Author, count(DISTINCT Top100Article) as NumArticle
+    WHERE NumArticle >= 2
+    WITH Author, NumArticle
+    SET Author.guru="yes"
+    RETURN Author.name AS Author, NumArticle
+    ORDER BY NumArticle DESC
+    """
+    return connect().run(query).data()
 
 if __name__ == "__main__":
     print("===========Finding Gurus and number of paper in top 100========================")
     graph = connect()
-    data = graph.run(query).data()
+    define_community()
+    find_db_community_conference_journal()
+    find_top_articles()
+    data = find_gurus()
     for d in data:
         print(d)
