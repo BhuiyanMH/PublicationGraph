@@ -1,0 +1,6 @@
+id;reviewer_id;art_id;book_title;comment;decision
+0;7433572;1;VLDB;xyzaskhksdh asdfkjhkdsahkhsdka hksadkhkj s;yes
+1;7433573;2;SIGMOD;sdafbsadfb asjdfjaskjdf kh asdkjfhaksjfh kkjhaskj;no
+2;7433574;3;SIGIR;sadfbasmfbmmsadfa  asdfjhasd f askdjfhksafhkash;yes
+3;7433575;4;Knowledge and Information Systems;dsafbasdm  afjashkjhkjhsdjfh akj kahsdfhkashdk;no
+4;7433569;5;Journal of Information Technology;sadfbasdf mkasjkdfkjha hkaj fahsdkjkjahsfhhk;yes

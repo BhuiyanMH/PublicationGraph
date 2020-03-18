@@ -1,0 +1,26 @@
+id;name;edition;city;year
+0;VLDB;1;Berlin;2016
+0;VLDB;2;Berlin;2017
+0;VLDB;3;Barcelona;2018
+0;VLDB;4;Barcelona;2019
+0;VLDB;5;Sidney;2020
+1;SIGMOD;1;Paris;2016
+1;SIGMOD;2;Aalborg;2017
+1;SIGMOD;3;Paris;2018
+1;SIGMOD;4;Aalborg;2019
+1;SIGMOD;5;Sidney;2020
+2;SIGIR;1;California;2016
+2;SIGIR;2;Stockholm;2017
+2;SIGIR;3;California;2018
+2;SIGIR;4;Paris;2019
+2;SIGIR;5;Paris;2020
+3;International Conference on Database Theory;1;Stockholm;2016
+3;International Conference on Database Theory;2;Paris;2017
+3;International Conference on Database Theory;3;Berlin;2018
+3;International Conference on Database Theory;4;California;2019
+3;International Conference on Database Theory;5;Berlin;2020
+4;Statistical and Scientific Database Management;1;Stockholm;2016
+4;Statistical and Scientific Database Management;2;Berlin;2017
+4;Statistical and Scientific Database Management;3;Aalborg;2018
+4;Statistical and Scientific Database Management;4;Toronto;2019
+4;Statistical and Scientific Database Management;5;Toronto;2020

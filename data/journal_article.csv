@@ -1,0 +1,251 @@
+id;title;Journal;ee;year;volume;pages
+200;A data base system for river basin management.;0;http://dl.acm.org/citation.cfm?id=811243;2016;1;331-340
+201;DPLAN-A data base oriented programing ianguage.;0;https://doi.org/10.1109/CMPSAC.1979.762482;2016;2;147-152
+202;CLIO - A relational data base management system.;0;https://doi.org/10.1109/CMPSAC.1978.810402;2017;1;289-294
+203;A multi-level approach to data base design.;0;https://doi.org/10.1109/CMPSAC.1978.810416;2017;2;370-375
+204;Structural locking for concurrency control in data base systems.;0;https://doi.org/10.1109/CMPSAC.1979.762561;2018;1;578-582
+205;"An effective ""on-line"" deadlock detection technique for distributed data base management systems.";0;https://doi.org/10.1109/CMPSAC.1978.810401;2018;2;283-288
+206;A data base machine design and evaluation facility.;0;https://doi.org/10.1109/CMPSAC.1978.810555;2019;1;716-721
+207;Software evolution using the SEER data base.;0;https://doi.org/10.1109/CMPSAC.1978.810335;2019;2;147-152
+208;Language files and'data bases - two I/O systems or one?;0;https://doi.org/10.1109/CMPSAC.1979.762463;2020;1;44-49
+209;Recent developments in data base and information retrieval hardware architectures.;0;https://doi.org/10.1109/CMPSAC.1978.810552;2020;2;698-703
+210;A software engineering approach to data base systems.;1;https://doi.org/10.1109/CMPSAC.1978.810419;2016;1;387-395
+211;Obtaining data base management system independence.;1;https://doi.org/10.1109/CMPSAC.1978.810417;2016;2;376-381
+212;Inertial data based deblurring for vision impaired navigation.;1;https://doi.org/10.1109/IPIN.2014.7275510;2017;1;416-420
+213;Portability of the programs using a data base management system.;1;https://doi.org/10.1007/3-540-08934-9_87;2017;2;342-366
+214;Modelling approach for distributed data bases.;1;https://doi.org/10.1007/3-540-08934-9_86;2018;1;319-341
+215;Quality assurance experience data base.;1;http://doi.ieeecomputersociety.org/10.1109/ISSRE.1991.145370|https://doi.org/10.1109/ISSRE.1991.145370;2018;2;144-151
+216;Open data based value networks: Finnish examples of public events and agriculture.;1;https://doi.org/10.23919/MIPRO.2017.7973649;2019;1;1448-1453
+217;On the visualization of design notions, of notion instantiations, and of structural relationships in a design data base realized as a semantic net.;1;https://doi.org/10.1007/3-540-18507-0_8;2019;2;124-141
+218;Sequential classification method for open-ended questionnaire data based on category classification sample.;1;;2020;1;157-164
+219;Mesh-growing surface reconstruction from sparse data based on the complex propagation scheme.;1;https://doi.org/10.1117/12.946048;2020;2;83340N
+220;Kernel density estimation with stream data based on self-organizing map.;2;https://doi.org/10.1109/EAIS.2011.5945929;2016;1;24-30
+221;Integrating logic programming into a data base course: views as rules in deductive relational data bases.;2;https://doi.org/10.1145/107004.107037;2016;2;184-191
+222;The impact of menus and command-level feedback on learners' acquisition of data base language skills.;2;https://doi.org/10.1145/52964.53022;2017;1;230-234
+223;Beyond ASIS: program data bases and tool-oriented queries.;2;https://doi.org/10.1145/507574.507595;2017;2;81-90
+224;The method of classification of user and system data based on the attributes.;2;https://doi.org/10.1109/FRUCT-ISPIT.2016.7561557;2018;1;404-409
+225;AssocGEN: Engine for analyzing metadata based associations in digital evidence.;2;https://doi.org/10.1109/SADFE.2013.6911541;2018;2;1-8
+226;An industrial data based investigation into effects of process parameters on cutting power and energy efficiency.;2;https://doi.org/10.1109/COASE.2017.8256313;2019;1;1481-1486
+227;Autonomic management of context data based on application requirements.;2;https://doi.org/10.1109/IECON.2017.8217515;2019;2;8622-8627
+228;Spatial shaping of motion-data based on motion-copying system using variable temporal scaling.;2;https://doi.org/10.1109/IECON.2014.7048915;2020;1;2866-2871
+229;Large scale data based linguistic investigations using speech technology tools: The case of Romanian.;2;https://doi.org/10.1109/SPED.2015.7343108;2020;2;1-6
+230;Технология классификации геопространственных данных на основе WPS сервисов (The technology of classification geospatial data based on WPS standard).;3;http://ceur-ws.org/Vol-2221/paper7.pdf;2016;1;37-41
+231;Distributed XPath query processing over large XML data based on MapReduce framework.;3;https://doi.org/10.1109/FSKD.2016.7603390;2016;2;1447-1453
+232;Storage and retrieval of massive heterogeneous IoT data based on hybrid storage.;3;https://doi.org/10.1109/FSKD.2017.8393258;2017;1;2982-2987
+233;An improved mixed-type data based kernel clustering algorithm.;3;https://doi.org/10.1109/FSKD.2016.7603350;2017;2;1205-1209
+234;Fault diagnosis of slurry pH data base on autoregressive integrated moving average and least squares support vector machines.;3;https://doi.org/10.1109/ICNC.2013.6817959;2018;1;141-145
+235;Prediction of the bridge monitoring data based on support vector machine.;3;https://doi.org/10.1109/ICNC.2015.7378090;2018;2;781-785
+236;Analysis of medical and healthcare data based on positive and negative association rules.;3;https://doi.org/10.1109/FSKD.2017.8392998;2019;1;1559-1564
+237;The analysis of coal safety production monitoring data based on deep learning.;3;https://doi.org/10.1109/FSKD.2017.8392908;2019;2;1053-1057
+238;Querying deep web data bases without accessing to data.;3;https://doi.org/10.1109/FSKD.2017.8393338;2020;1;597-603
+239;Modeling and compensation of MEMS gyroscope output data based on support vector machine.;3;https://doi.org/10.1109/ICNC.2011.6022022;2020;2;171-175
+240;Assessing the trustworthiness of location data based on provenance.;4;https://doi.org/10.1145/1653771.1653810;2016;1;276-285
+241;Annotating geospatial data based on its semantics.;4;https://doi.org/10.1145/1653771.1653786;2016;2;81-90
+242;A feature selection model for binary classification of imbalanced data based on preference for target instances.;4;https://doi.org/10.1109/DMO.2012.6329795;2017;1;35-42
+243;Augmented reality using mobile technology with real time object rendering data based for vote counting. A case in Santa Fe elections 2017.;4;https://doi.org/10.1109/CLEI.2017.8226458;2017;2;1-10
+244;Stochastic generation and forecasting of monthly hydrometeorological data based on non-traditional neural network.;4;https://doi.org/10.1109/CLEI.2017.8226387;2018;1;1-8
+245;Extraction of representative point from hand contour data based on laser range scanner for hand motion estimation.;4;https://doi.org/10.1109/ROBIO.2015.7419090;2018;2;2139-2144
+246;Natural landmark extraction in 2D laser data based on local curvature scale for mobile robot navigation.;4;https://doi.org/10.1109/ROBIO.2010.5723381;2019;1;525-530
+247;Identifying objects in range data based on similarity transformation invariant shape signatures.;4;https://doi.org/10.1145/1774674.1774679;2019;2;25-28
+248;A big data based deep learning approach for vehicle speed prediction.;4;https://doi.org/10.1109/ISIE.2017.8001278;2020;1;389-394
+249;Automated fault detection method in process data based on cluster analysis.;4;https://doi.org/10.1109/ISIE.2014.6864998;2020;2;2416-2421
+250;Education data mining: Mining MOOCs videos using metadata based approach.;0;https://doi.org/10.1109/CIST.2016.7805106;2016;1;531-534
+251;Linked-data based suggestion of relevant topics.;0;https://doi.org/10.1145/2063518.2063525|https://www.wikidata.org/entity/Q66708960;2016;2;49-55
+252;Ontology-based modelling of related work sections in research articles: using CRFs for developing semantic data based information retrieval systems.;0;https://doi.org/10.1145/1839707.1839725;2017;1;
+253;A procedural interface to CAD data based on EDIF.;0;http://dl.acm.org/citation.cfm?id=950082|https://doi.org/10.1109/EDAC.1990.136698;2017;2;496-500
+254;Analysis of data distribution to classify data based on taxonomy hierarchy.;0;https://doi.org/10.1109/SMC.2016.7844781;2018;1;3540-3545
+255;A metadata based distance learning platform.;0;https://doi.org/10.1109/ICSMC.2000.884962;2018;2;44-48
+256;Multilevel prediction of missing time series dam displacements data based on artificial neural networks voting evaluation.;0;https://doi.org/10.1109/SMC.2016.7844597;2019;1;2391-2396
+257;Learning coverage rules from incomplete data based on rough sets.;0;https://doi.org/10.1109/ICSMC.2004.1400837;2019;2;3226-3231
+258;Weighted principal component analysis for interval-valued data based on fuzzy clustering.;0;https://doi.org/10.1109/ICSMC.2003.1245689;2020;1;4476-4482
+259;A pattern classifier for interval-valued data based on multinomial logistic regression model.;0;https://doi.org/10.1109/ICSMC.2012.6377781;2020;2;541-546
+260;Visualizing multidimensional data based on Laplacian Eigenmaps projection.;1;https://doi.org/10.1109/SMC.2014.6974153;2016;1;1654-1659
+261;Partitioning fuzzy clustering algorithms for interval-valued data based on Hausdorff distances.;1;https://doi.org/10.1109/ICSMC.2012.6377926;2016;2;1379-1384
+262;Clustering symbolic interval data based on a single adaptive hausdorff distance.;1;https://doi.org/10.1109/ICSMC.2007.4413616;2017;1;451-455
+263;Classification of stellar spectral data based on Kalman filter and RBF neural networks.;1;https://doi.org/10.1109/ICSMC.2003.1243828;2017;2;274-279
+264;Clustering of DNA microarray temporal data based on the autoregressive model.;1;https://doi.org/10.1109/ICSMC.2008.4811253;2018;1;71-75
+265;Dealing with granularity on non-euclidean relational data based on indiscernibility level.;1;https://doi.org/10.1109/ICSMC.2007.4413884;2018;2;3772-3777
+266;A novel adapting mapping method for emergent properties discovery in data bases: experience in medical field.;1;https://doi.org/10.1109/ICSMC.2007.4413827|https://www.wikidata.org/entity/Q62608673;2019;1;3457-3463
+267;Classification system for time series data based on feature pattern extraction.;1;https://doi.org/10.1109/ICSMC.2011.6083844;2019;2;1340-1345
+268;A pupil data based classification model for education learning states.;1;https://doi.org/10.1109/ICTC.2017.8190960;2020;1;141-143
+269;Distributed data base technology - An interim report of the CODASYL Systems Committee.;1;;2020;2;909-918
+270;Distributed data base processing.;2;https://doi.org/10.1145/1500518.1500556;2016;1;255
+271;Establishment and maintenance of a storage hierarchy for an on-line data base under TSS/360.;2;https://doi.org/10.1145/1478559.1478610;2016;2;433-440
+272;Error detection in data base systems.;2;https://doi.org/10.1145/1499799.1499908;2017;1;795-801
+273;Some problems in associative processor applications to data base management.;2;https://doi.org/10.1145/1500175.1500177;2017;2;1-5
+274;Requirements for a generalized data base management system.;2;https://doi.org/10.1145/1479064.1479157;2018;1;515-522
+275;Integrating data base management into operating systems: an access method approach.;2;https://doi.org/10.1145/1500175.1500187;2018;2;57-62
+276;Integrity aspects of a shared data base.;2;https://doi.org/10.1145/1499799.1499911;2019;1;819-827
+277;Accessing a data base through a minicomputer.;2;https://doi.org/10.1145/1500175.1500369;2019;2;1001
+278;A simulation model for data base system performance evaluation.;2;https://doi.org/10.1145/1499949.1500039;2020;1;459-465
+279;Managing the census data base: data description, acquisition, and manipulation.;2;https://doi.org/10.1145/1499799.1499916;2020;2;863-867
+280;The application of cryptography for data base security.;3;https://doi.org/10.1145/1499799.1499814;2016;1;97-107
+281;An information structure for data base and device independent report generation.;3;https://doi.org/10.1145/1480083.1480147;2016;2;1111-1116
+282;A data dictionary/directory system within the context of an integrated corporate data base.;3;https://doi.org/10.1145/1480083.1480149;2017;1;1133-1140
+283;A structured data base computer conferencing system.;3;https://doi.org/10.1145/1499402.1499483;2017;2;461-467
+284;The CODASYL and GUIDE/SHARE proposals on data base management systems.;3;https://doi.org/10.1145/1500175.1500365;2018;1;987
+285;Human factors evaluation of two data base query languages: SQUARE and SEQUEL.;3;https://doi.org/10.1145/1499949.1500036;2018;2;447-452
+286;A multi-processor ARES with associative processing capability on semantic data bases.;3;;2019;1;1033-1040
+287;Specifications for the development of a generalized data base planning system.;3;https://doi.org/10.1145/1499586.1499660;2019;2;259-270
+288;Selection efficiency combination of data files for a multiuser data base.;3;;2020;1;843-848
+289;RISS: a generalized minicomputer relational data base management system.;3;https://doi.org/10.1145/1499949.1500027;2020;2;397-402
+290;DATAPLUS: a language for real time information retrieval from hierarchical data bases.;4;https://doi.org/10.1145/1468075.1468133;2016;1;395-401
+291;Structured organization of clinical data bases.;4;https://doi.org/10.1145/1499949.1500043;2016;2;479-485
+292;The TICOM model: a network data base approach to review and evaluation of internal control systems.;4;https://doi.org/10.1145/1499402.1499558;2017;1;843-854
+293;A data base management problem specification model.;4;https://doi.org/10.1145/1500175.1500186;2017;2;53-56
+294;Audit considerations of data bases.;4;https://doi.org/10.1145/1500175.1500367;2018;1;991
+295;Insuring individual's privacy from statistical data base users.;4;https://doi.org/10.1145/1499949.1500162;2018;2;941-946
+296;Optimizing distributed data bases: a framework for research.;4;https://doi.org/10.1145/1499949.1500042;2019;1;473-478
+297;Integrated data bases for municipal decision-making.;4;https://doi.org/10.1145/1499949.1500044;2019;2;487-493
+298;User/system interface within the context of an integrated corporate data base.;4;https://doi.org/10.1145/1500175.1500182;2020;1;27-33
+299;An extensible distributed data base system.;4;;2020;2;813-822
+300;Performance of file directory systems for data bases in star and distributed networks.;0;https://doi.org/10.1145/1499799.1499880;2016;1;577-587
+301;Graphics and digitizing automatic transduction of drawings into data bases.;0;https://doi.org/10.1145/1499586.1499741;2016;2;635-637
+302;Query-by-example: operations on hierarchical data bases.;0;https://doi.org/10.1145/1499799.1499914;2017;1;845-853
+303;Integrated data base concepts and structures for combat models.;0;https://doi.org/10.1145/1499402.1499506;2017;2;595-602
+304;Evaluating inter-entry retrieval expressions in a relational data base management system.;0;https://doi.org/10.1145/1499949.1500031;2018;1;417-423
+305;Storage utilization in a self-organizing data base.;0;https://doi.org/10.1145/1499402.1499429;2018;2;119-122
+306;OMNIBUS: a large data base management system.;0;https://doi.org/10.1145/1476589.1476616;2019;1;157-169
+307;Self-adaptive automatic data base design.;0;https://doi.org/10.1145/1499402.1499430;2019;2;123-129
+308;Applications of SPARCOM data base concepts to a crime combating environment.;0;https://doi.org/10.1145/1499402.1499505;2020;1;579-593
+309;F0 generation with a data base of natural F0 patterns and with a neural network.;0;http://www.isca-speech.org/archive_open/ssw1/ssw1_141.html;2020;2;141-144
+310;PCD: A privacy-preserving predictive clinical decision scheme with E-health big data based on RNN.;1;https://doi.org/10.1109/INFCOMW.2017.8116480;2016;1;808-813
+311;SCADA data based realistic simulation framework to evaluate environmental impact on performance of wind turbine condition monitoring systems.;1;https://doi.org/10.1109/SYSTOL.2019.8864769;2016;2;360-365
+312;An Approach Towards Classifying and Navigating RDF data based on Pattern Structures.;1;http://ceur-ws.org/Vol-1434/paper3.pdf;2017;1;33-48
+313;Head pose estimation on depth data based on Particle Swarm Optimization.;1;http://doi.ieeecomputersociety.org/10.1109/CVPRW.2012.6239236|https://doi.org/10.1109/CVPRW.2012.6239236;2017;2;42-49
+314;Topic life cycle extraction from big Twitter data based on community detection in bipartite networks.;1;https://doi.org/10.1109/BigData.2017.8258238;2018;1;2740-2745
+315;iSkin specialist - A big data based expert system for dermatology.;1;http://doi.ieeecomputersociety.org/10.1109/BigData.2017.8258535|https://doi.org/10.1109/BigData.2017.8258535;2018;2;4765-4767
+316;Mining frequent temporal patterns from medical data based on fuzzy ranged relations.;1;https://doi.org/10.1109/BigData47090.2019.9006563;2019;1;2654-2658
+317;Parallel clustering method for non-disjoint partitioning of large-scale data based on spark framework.;1;https://doi.org/10.1109/BigData.2016.7840708;2019;2;1064-1069
+318;Searching inter-disciplinary scientific big data based on latent correlation analysis.;1;http://doi.ieeecomputersociety.org/10.1109/BigData.2013.6691721|https://doi.org/10.1109/BigData.2013.6691721;2020;1;9-12
+319;CloudRS: An error correction algorithm of high-throughput sequencing data based on scalable framework.;1;https://doi.org/10.1109/BigData.2013.6691642;2020;2;717-722
+320;Privacy-preserving trajectory classification of driving trip data based on pattern discovery techniques.;2;https://doi.org/10.1109/BigData.2017.8258383;2016;1;3816-3825
+321;E-Sketch: Gathering large-scale energy consumption data based on consumption patterns.;2;http://doi.ieeecomputersociety.org/10.1109/BigData.2014.7004289|https://doi.org/10.1109/BigData.2014.7004289;2016;2;656-665
+322;Gene deletion data based genomic regulatory network inference.;2;https://doi.org/10.1109/SSP.2012.6319762;2017;1;572-575
+323;Identifying activated brain regions from fMRI data based on blind non-negative component separation technique.;2;https://doi.org/10.1109/BHI.2012.6211575;2017;2;313-316
+324;Gene selection and classification approach for microarray data based on Random Forest Ranking and BBHA.;2;https://doi.org/10.1109/BHI.2016.7455896;2018;1;308-311
+325;Scheduling analysis of broadcasting real-time data based on prediction scheme over wireless multi-channels.;2;http://ieeexplore.ieee.org/document/7332539/;2018;2;38-43
+326;A knowledge and data base for software systems.;2;http://doi.ieeecomputersociety.org/10.1109/TAI.1990.130373|https://doi.org/10.1109/TAI.1990.130373;2019;1;417-423
+327;A new hybrid broadcast scheduling algorithm for asymmetric communication systems: push and pull data based on optimal cut-off point.;2;https://doi.org/10.1145/381591.381630;2019;2;123-130
+328;Identifying disease genes from gene expression data based on singular value decomposition.;2;https://doi.org/10.1109/BMEI.2011.6098516;2020;1;1743-1747
+329;Research on clustering anomaly of DEMETER satellite electric field data based on SOM.;2;https://doi.org/10.1109/CISP-BMEI.2016.7852862;2020;2;1018-1022
+330;Anomaly recognition of ultra low frequency electric data based on artificial neural network.;3;https://doi.org/10.1109/CISP-BMEI.2016.7852857;2016;1;993-997
+331;Feature selection for SNP data based on Relief-SVM.;3;https://doi.org/10.1109/BMEI.2011.6098608;2016;2;1720-1723
+332;Simultaneous inversion for pre-stack seismic data based on Markov random field.;3;https://doi.org/10.1109/CISP-BMEI.2016.7852863;2017;1;1023-1027
+333;The point set order type data base: A collection of applications and results.;3;http://www.cccg.ca/proceedings/2001/hkrasser-20463.ps.gz;2017;2;17-20
+334;Metadata based authoring for technical documentation.;3;https://doi.org/10.1145/1085313.1085330;2018;1;60-67
+335;Classifying six glioma subtypes from combined gene expression and CNVs data based on compressive sensing approach.;3;http://doi.ieeecomputersociety.org/10.1109/BIBMW.2011.6112388|https://doi.org/10.1109/BIBMW.2011.6112388;2018;2;282-288
+336;Detection of splicing events and multiread locations from RNA-seq data based on a geometric-tail (GT) distribution of intron length.;3;http://doi.ieeecomputersociety.org/10.1109/BIBM.2010.5706557|https://doi.org/10.1109/BIBM.2010.5706557;2019;1;164-170
+337;Normalized mutual information feature selection for electroencephalogram data based on grassberger entropy estimator.;3;http://doi.ieeecomputersociety.org/10.1109/BIBM.2017.8217730|https://doi.org/10.1109/BIBM.2017.8217730;2019;2;648-652
+338;Prediction of DTIs for high-dimensional and class-imbalanced data based on CGAN.;3;http://doi.ieeecomputersociety.org/10.1109/BIBM.2018.8621098;2020;1;788-791
+339;A Methodology for Semantic Similarity Measurement among Metadata based Information System.;3;http://doi.ieeecomputersociety.org/10.1109/SERA.2006.5|https://doi.org/10.1109/SERA.2006.5;2020;2;202-205
+340;Modeling of Situation-Middleware for TPO metadata based on Event-Condition-Action Rule.;4;http://doi.ieeecomputersociety.org/10.1109/SERA.2006.50|https://doi.org/10.1109/SERA.2006.50;2016;1;423-427
+341;A privacy preserving scheme for change increment of electricity big data base on symmetric cryptography.;4;https://doi.org/10.1109/CCIS.2014.7175784;2016;2;487-490
+342;A novel algorithm for generating simulated genetic data based on K-medoids.;4;https://doi.org/10.1109/CCIS.2012.6664360;2017;1;25-28
+343;Design of a quality control system for autocorrelated data based on artificial neural networks.;4;https://doi.org/10.1109/CoDIT.2017.8102602;2017;2;265-270
+344;CONCEPT D: a graphical language for conceptual modelling and data base use.;4;http://doi.ieeecomputersociety.org/10.1109/WVL.1988.18004|https://doi.org/10.1109/WVL.1988.18004;2018;1;2-11
+345;Intraprocedural fusion of electroanatomical maps (EAM) with imaging data based on rapidly-sampled volumetric point clouds from continuous EAM catheter tracking.;4;https://doi.org/10.1117/12.709607;2018;2;65090R
+346;Classification of diffuse large B cell lymphoma gene expression data based on two-layer particle swarm optimization.;4;https://doi.org/10.1109/FSKD.2013.6816234;2019;1;422-427
+347;The crawling and analysis of agricultural products big data based on Jsoup.;4;https://doi.org/10.1109/FSKD.2015.7382112;2019;2;1197-1202
+348;Trading rules for high-frequency financial data based on hybrid clustering.;4;https://doi.org/10.1109/FSKD.2011.6019696;2020;1;1191-1195
+349;Security in real time multimedia data based on generalized keys.;4;https://doi.org/10.1145/2007052.2007071;2020;2;93-96
+350;Graphic and relational data base support for problem solving.;0;https://doi.org/10.1145/563274.563309;2016;1;183-189
+351;Retrieval of motion capture data based on short-term feature extraction.;0;https://doi.org/10.1145/1599301.1599313;2016;2;
+352;A query language for a network data base with graphical entities.;0;https://doi.org/10.1145/563858.563891;2017;1;179-185
+353;Ways of structuring data within a digital cartographic data base.;0;https://doi.org/10.1145/563858.563885;2017;2;148-157
+354;Noise cancelation of epileptic interictal EEG data based on generalized eigenvalue decomposition.;0;https://doi.org/10.1109/TSP.2012.6256365|https://www.wikidata.org/entity/Q61050046;2018;1;591-595
+355;Linked data based semantic similarity and data mining.;0;https://doi.org/10.1109/IRI.2010.5558957;2018;2;104-108
+356;Multiple fuzzy neural networks modeling on sparse data based on a nonparametric regression technique.;0;https://doi.org/10.1109/IRI.2010.5558920;2019;1;304-307
+357;Filled: video data based fill level detection of agricultural bulk freight.;0;;2019;2;439-442
+358;Fuzzy clustering algorithms for symbolic interval data based on adaptive and non-adaptive Euclidean distances.;0;http://doi.ieeecomputersociety.org/10.1109/SBRN.2006.19|https://doi.org/10.1109/SBRN.2006.19;2020;1;60-65
+359;A dynamical clustering method for symbolic interval data based on a single adaptive Euclidean distance.;0;http://doi.ieeecomputersociety.org/10.1109/SBRN.2006.2|https://doi.org/10.1109/SBRN.2006.2;2020;2;42-47
+360;A technique to aggregate classes of analog fault diagnostic data based on association rule mining.;1;https://doi.org/10.1109/ISQED.2018.8357294;2016;1;238-243
+361;Real-life data based analysis of driving cycles regarding their insufficient cycle duration.;1;https://doi.org/10.1109/ITSC.2016.7795587;2016;2;408-415
+362;Effectiveness of arterial traffic status monitoring using system detector data based on a V-Plus-O approach.;1;https://doi.org/10.1109/ITSC.2012.6338915;2017;1;1143-1148
+363;Urban road traffic speed estimation for missing probe vehicle data based on multiple linear regression model.;1;https://doi.org/10.1109/ITSC.2013.6728220;2017;2;118-123
+364;Historical data based real time prediction of vehicle arrival time.;1;https://doi.org/10.1109/ITSC.2014.6957960;2018;1;1837-1842
+365;Big data based user clustering and influence power ranking.;1;https://doi.org/10.1109/ISCIT.2016.7751653;2018;2;371-375
+366;Communication data based user activity recommendations.;1;https://doi.org/10.1145/1968613.1968620;2019;1;6
+367;Cleansing RFID data based on RSSI estimation.;1;https://doi.org/10.1109/ICUWB.2017.8250977;2019;2;1-4
+368;Graph model building for red tide data based on DWFCM clustering algorithm.;1;https://doi.org/10.1109/ICNSC.2018.8361294;2020;1;1-6
+369;Study on data based tourism management decision support system.;1;https://doi.org/10.1109/ICNSC.2010.5461501;2020;2;217-222
+370;Process modeling strategy combining analytical and data based techniques - I. NN identification of reaction rates with known kinetics coefficients.;2;https://doi.org/10.1109/IJCNN.2007.4371185;2016;1;1530-1535
+371;Fuzzy ARTMAP Neural Network IDS Evaluation applied for real IEEE 802.11w data base.;2;https://doi.org/10.1109/IJCNN.2018.8489217|https://www.wikidata.org/entity/Q60204594;2016;2;1-7
+372;Clustering of symbolic interval data based on a single adaptive L1 distance.;2;https://doi.org/10.1109/IJCNN.2007.4370959;2017;1;224-229
+373;A new discriminant analysis for non-normally distributed data based on datawise formulation of scatter matrices.;2;http://doi.ieeecomputersociety.org/10.1109/IJCNN.2009.5178841|https://doi.org/10.1109/IJCNN.2009.5178841;2017;2;2416-2422
+374;Clustering action data based on amount of exercise for use-model based health care support.;2;https://doi.org/10.1109/IJCNN.2012.6252473;2018;1;1-6
+375;Comparative of data base evolution in rule association algorithms in incremental and conventional way.;2;https://doi.org/10.1109/IJCNN.2008.4634241;2018;2;3131-3137
+376;On-line learning of sequence data based on Self-Organizing Incremental Neural Network.;2;https://doi.org/10.1109/IJCNN.2008.4634351;2019;1;3847-3854
+377;Data preprocessing in data based process modeling.;2;https://doi.org/10.3182/20090921-3-TR-3005.00096;2019;2;559-565
+378;Hierarchical retrieval of human motion data based on semantic feature.;2;https://doi.org/10.1109/ICCSE.2016.7581670;2020;1;729-732
+379;Trustworthiness calculation of composite Web service output data based on how provenance.;2;https://doi.org/10.1109/ICCSE.2016.7581594;2020;2;279-284
+380;Feature extraction of volume data based on multi-scale representation.;3;https://doi.org/10.1145/604471.604506;2016;1;175-180
+381;Frequency response data based disturbance observer design applicable to non-minimum phase systems.;3;https://doi.org/10.23919/SICE.2019.8859929;2016;2;358-363
+382;Towards a query language for spatiotemporal data based on a formal algebra.;3;http://urlib.net/8JMKD3MGPDW34P/3Q5DTC8;2017;1;116-121
+383;Efficient mining of frequent itemsets in social network data based on MapReduce framework.;3;https://doi.org/10.1145/2492517.2500301;2017;2;1183-1188
+384;A study of integrated criminal justice data base system.;3;https://doi.org/10.1109/ISI.2008.4565089;2018;1;290-291
+385;Multi-scale rasterization of contracted land vector data based on grid purity index.;3;https://doi.org/10.1109/Agro-Geoinformatics.2019.8820418;2018;2;1-5
+386;Using lessons from health care to protect the privacy of library users: Guidelines for the de-identification of library data based on HIPAA.;3;https://doi.org/10.1002/meet.1450420106|https://www.wikidata.org/entity/Q56525562;2019;1;
+387;Chance discovery as value sensing by data based meta cognition.;3;https://doi.org/10.1145/1456223.1456227;2019;2;5-6
+388;Attitudinal data based server job scheduling using genetic algorithms: Client-centric job scheduling for single threaded servers.;3;http://doi.ieeecomputersociety.org/10.1109/IC3.2016.7880230|https://doi.org/10.1109/IC3.2016.7880230;2020;1;1-7
+389;Active learning for networked data based on non-progressive diffusion model.;3;https://doi.org/10.1145/2556195.2556223;2020;2;363-372
+390;EOMOUNT - A satellite data based near-realtime observing system at local/regional scale.;4;http://iai-uiserv1.iai.fzk.de/ictensure/site?mod=litdb&subject=art&pid=X114B4112&action=detail;2016;1;412-418
+391;CETOSS - A Collaborative Editing Tool for meteorological data based on Open Source Software.;4;http://iai-uiserv1.iai.fzk.de/ictensure/site?mod=litdb&subject=art&pid=LD64E2473&action=detail;2016;2;97-106
+392;Analysing spatial-temporal data based on generic GIS.;4;http://doi.ieeecomputersociety.org/10.1109/AICCSA.2005.1387091|https://doi.org/10.1109/AICCSA.2005.1387091;2017;1;102
+393;Digital watermarking for volume data based on 3D-DWT and 3D-DCT.;4;https://doi.org/10.1145/1655925.1655990;2017;2;352-357
+394;Unsupervised classification of PolSAR data based on a novel polarization feature.;4;https://doi.org/10.1109/IGARSS.2017.8128024;2018;1;4594-4597
+395;A robust spectral target recognition method for hyperspectral data based on combined spectral signatures.;4;https://doi.org/10.1109/IGARSS.2011.6050189;2018;2;4328-4331
+396;Mapping FPAR in China with modis time-series data based on the Wide Dynamic Range Vegetation Index.;4;https://doi.org/10.1109/IGARSS.2013.6723403;2019;1;2790-2793
+397;Phase calibration of multibaseline SAR data based on a minimum entropy criterion.;4;https://doi.org/10.1109/IGARSS.2012.6352438;2019;2;5198-5201
+398;Correlation analysis between forest canopy density and LANDSAT TM data based on sub-compartment objects.;4;https://doi.org/10.1109/IGARSS.2013.6723127;2020;1;1717-1720
+399;Building extraction from UAV remote sensing data based on photogrammetry method.;4;https://doi.org/10.1109/IGARSS.2017.8127707;2020;2;3317-3320
+450;An empirical semi-supervised machine learning approach on extracting and ranking document level multi-word product names using improved C-value approach.;0;https://doi.org/10.1109/ICACCI.2016.7732139;2016;1;770-775
+451;A comprehensive machine learning approach to prognose pulmonary disease from home.;0;https://doi.org/10.1145/2345396.2345482;2016;2;518-523
+452;Exploiting machine learning algorithms for cognitive radio.;0;https://doi.org/10.1109/ICACCI.2014.6968571;2017;1;1554-1558
+453;Effort estimation of web-based applications using machine learning techniques.;0;https://doi.org/10.1109/ICACCI.2016.7732171;2017;2;973-979
+454;Characteristics of 'Escaping' and 'Falling into' Poverty in India: An Analysis of IHDS Panel Data using machine learning approach.;0;https://doi.org/10.1109/ICACCI.2018.8554571;2018;1;1391-1397
+455;New machine learning based approach for predictive modeling on spatial data.;0;https://doi.org/10.1109/ICACCI.2017.8126080;2018;2;1654-1659
+456;Early detection of VoIP network flows based on sub-flow statistical characteristics of flows using machine learning techniques.;0;https://doi.org/10.1109/ANTS.2014.7057227;2019;1;1-6
+457;A fully automated deep packet inspection verification system with machine learning.;0;https://doi.org/10.1109/ANTS.2016.7947802;2019;2;1-6
+458;Enhanced machine learning scheme for energy efficient resource allocation in 5G heterogeneous cloud radio access networks.;0;https://doi.org/10.1109/PIMRC.2017.8292227;2020;1;1-7
+459;A machine learning enabled network planning tool.;0;https://doi.org/10.1109/PIMRC.2016.7794909;2020;2;1-7
+460;Detection of anomalous behavior of smartphones using signal processing and machine learning techniques.;1;https://doi.org/10.1109/PIMRC.2017.8292418;2016;1;1-7
+461;Power allocation in cognitive radio networks using distributed machine learning.;1;https://doi.org/10.1109/PIMRC.2012.6362898;2016;2;826-831
+462;Research on machine learning algorithms and feature extraction for time series.;1;https://doi.org/10.1109/PIMRC.2017.8292668;2017;1;1-5
+463;Exploiting FDSOI towards minimum energy point operation in processors and machine learning accelerators.;1;https://doi.org/10.1109/ESSDERC.2018.8486865;2017;2;157
+464;MaSiF: machine learning guided auto-tuning of parallel skeletons.;1;http://ieeexplore.ieee.org/document/7842962/|https://doi.org/10.1145/2370816.2370884;2018;1;437-438
+465;Partitioning streaming parallelism for multi-cores: a machine learning based approach.;1;http://ieeexplore.ieee.org/document/7851530/|https://doi.org/10.1145/1854273.1854313;2018;2;307-318
+466;Quality assessment of adaptive bitrate videos using image metrics and machine learning.;1;https://doi.org/10.1109/QoMEX.2015.7148105;2019;1;1-2
+467;Video quality assessment and machine learning: Performance and interpretability.;1;https://doi.org/10.1109/QoMEX.2015.7148149;2019;2;1-6
+468;A no-reference machine learning based video quality predictor.;1;https://doi.org/10.1109/QoMEX.2013.6603233|https://www.wikidata.org/entity/Q58925466;2020;1;176-181
+469;Predicting QoE in cellular networks using machine learning and in-smartphone measurements.;1;https://doi.org/10.1109/QoMEX.2017.7965687;2020;2;1-6
+470;Harmful algal blooms prediction with machine learning models in Tolo Harbour.;2;http://doi.ieeecomputersociety.org/10.1109/SMARTCOMP.2014.7043865|https://doi.org/10.1109/SMARTCOMP.2014.7043865;2016;1;245-250
+471;A supervised energy monitoring-based machine learning approach for anomaly detection in a clean water supply system.;2;https://doi.org/10.1109/CyberSecPODS.2018.8560683;2016;2;1-8
+472;Longitudinal performance analysis of machine learning based Android malware detectors.;2;https://doi.org/10.1109/CyberSecPODS.2019.8885384;2017;1;1-8
+473;Time-efficient offloading for machine learning tasks between embedded systems and fog nodes.;2;https://doi.org/10.1109/ISORC.2019.00022;2017;2;79-82
+474;ALIDA: Using machine learning for intent discernment in visual analytics interfaces.;2;https://doi.org/10.1109/VAST.2010.5650854;2018;1;223-224
+475;Adaptive on-line software aging prediction based on machine learning.;2;http://doi.ieeecomputersociety.org/10.1109/DSN.2010.5544275|https://doi.org/10.1109/DSN.2010.5544275|https://www.wikidata.org/entity/Q61731277;2018;2;507-516
+476;SPynq: Acceleration of machine learning applications over Spark on Pynq.;2;https://doi.org/10.1109/SAMOS.2017.8344613;2019;1;70-77
+477;Architectural considerations for FPGA acceleration of machine learning applications in MapReduce.;2;https://doi.org/10.1145/3229631.3229639;2019;2;89-96
+478;Software effort estimation using machine learning techniques.;2;https://doi.org/10.1145/2590748.2590767;2020;1;19:1-19:6
+479;Gesture keyboard with a machine learning requiring only one camera.;2;https://doi.org/10.1145/2160125.2160154;2020;2;29
+480;A review of machine learning prediction methods for anxiety disorders.;3;https://doi.org/10.1145/3218585.3218587;2016;1;8-15
+481;Coupling feature selection and machine learning methods for navigational query identification.;3;https://doi.org/10.1145/1183614.1183711;2016;2;682-689
+482;Combining machine learning and human judgment in author disambiguation.;3;https://doi.org/10.1145/2063576.2063756;2017;1;1241-1246
+483;Mining officially unrecognized side effects of drugs by combining web search and machine learning.;3;https://doi.org/10.1145/1099554.1099670;2017;2;365-372
+484;Usability in machine learning at scale with graphlab.;3;https://doi.org/10.1145/2505515.2527108;2018;1;5-6
+485;A machine learning approach for improved BM25 retrieval.;3;https://doi.org/10.1145/1645953.1646237;2018;2;1811-1814
+486;PredictionIO: a distributed machine learning server for practical software development.;3;https://doi.org/10.1145/2505515.2508198;2019;1;2493-2496
+487;Information retrieval and machine learning for probabilistic schema matching.;3;https://doi.org/10.1145/1099554.1099634|https://www.wikidata.org/entity/Q58049290;2019;2;295-296
+488;Game theoretic mechanism design applied to machine learning classification.;3;https://doi.org/10.1109/CIP.2012.6232916;2020;1;1-5
+489;Attention: A machine learning perspective.;3;https://doi.org/10.1109/CIP.2012.6232894;2020;2;1-6
+490;Verb phrase ellipsis detection using machine learning techniques.;4;;2016;1;317-326
+491;One model per entity: using hundreds of machine learning models to recognize and normalize biomedical names in text.;4;https://doi.org/10.26615/978-954-452-044-1_007|https://www.wikidata.org/entity/Q57750165;2016;2;49-54
+492;Human dialogue modelling using machine learning.;4;;2017;1;17-28
+493;Baseline evaluation: an empirical study of the performance of machine learning algorithms in short snippet sentiment analysis.;4;https://doi.org/10.1145/2637748.2638420;2017;2;6:1-6:8
+494;Using machine learning for unsupervised maritime waypoint discovery from streaming AIS data.;4;https://doi.org/10.1145/2809563.2809573;2018;1;16:1-16:8
+495;Skin sheriff: a machine learning solution for detecting explicit images.;4;https://doi.org/10.1145/2598918.2598920;2018;2;45-56
+496;Machine learning in computer forensics (and the lessons learned from machine learning in computer security).;4;https://doi.org/10.1145/2046684.2046700;2019;1;99-104
+497;Opportunities for private and secure machine learning.;4;https://doi.org/10.1145/1456377.1456385|https://www.wikidata.org/entity/Q66711046;2019;2;31-32
+498;Off the beaten path: machine learning for offensive security.;4;https://doi.org/10.1145/2517312.2517313;2020;1;1-2
+499;On the effectiveness of using state-of-the-art machine learning techniques to launch cryptographic distinguishing attacks.;4;https://doi.org/10.1145/2381896.2381912;2020;2;105-110
