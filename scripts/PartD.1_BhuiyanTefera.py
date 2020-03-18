@@ -66,7 +66,7 @@ def find_gurus():
     WHERE NumArticle >= 2
     WITH Author, NumArticle
     SET Author.guru="yes"
-    RETURN Author.name AS Author, NumArticle
+    RETURN Author.name AS Guru, NumArticle
     ORDER BY NumArticle DESC
     """
     return connect().run(query).data()

@@ -10,8 +10,8 @@ def connect():
 def triangle_count_algo():
     query = """CALL algo.triangleCount.stream('Article', "CITED_BY")
     YIELD nodeId,triangles as Triangles, coefficient
-    RETURN algo.getNodeById(nodeId).title AS Article_Title, Triangles, coefficient
-    ORDER BY coefficient DESC LIMIT 10"""
+    RETURN algo.getNodeById(nodeId).title AS Article, Triangles, coefficient
+    ORDER BY coefficient DESC"""
     return connect().run(query).data()
 
 if __name__ == "__main__":

@@ -10,8 +10,8 @@ def connect():
 def page_rank_algo():
     query = """CALL algo.pageRank.stream('Article', 'CITED_BY', {iterations:20, dampingFactor:0.85})
     YIELD nodeId, score
-    RETURN algo.getNodeById(nodeId).title as Article, score
-    ORDER BY score DESC LIMIT 10"""
+    RETURN algo.getNodeById(nodeId).title as Article, score as PageRank
+    ORDER BY PageRank DESC"""
     return connect().run(query).data()
 if __name__ == "__main__":
     connect()
